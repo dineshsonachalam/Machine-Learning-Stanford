@@ -41,3 +41,7 @@ If independent variable increases and dependent variable decreases => -ve relati
 ![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/H6qTdZmYEeaagxL7xdFKxA_2f0f671110e8f7446bb2b5b2f75a8874_Screenshot-2016-10-23-20.14.58.png?expiry=1514851200000&hmac=pPzQWJCieUWfAMVRErWZGpIQR5T4RRr1iZGOPO23D-c)
 
 'h' maps from x's to y's
+
+***
+
+![](https://github.com/dineshsonachalam/Machine-Learning-Stanford/blob/master/week1/2_Model_and_cost_function/cost_function.png)
