@@ -48,4 +48,4 @@ If independent variable increases and dependent variable decreases => -ve relati
 
 ***
 
-![](https://github.com/dineshsonachalam/Machine-Learning-Stanford/blob/master/week1/2_Model_and_cost_function/cost_function_intution_1.png)
+![](https://github.com/dineshsonachalam/Machine-Learning-Stanford/blob/master/week1/2_Model_and_cost_function/cost_function_intution1.png)
