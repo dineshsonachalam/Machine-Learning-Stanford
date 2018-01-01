@@ -3,7 +3,7 @@
 ### Week 1:
 1. - [x]  [Intro]()
 2. - [x]  [Linear Regression with 1 variable]()
-3. - [ ]  [Linear Algebra review]()
+3. - [x]  [Linear Algebra review]()
 
 
 ### Week 2:
