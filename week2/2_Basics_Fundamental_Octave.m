@@ -1,6 +1,7 @@
 # 1. Creating a matrix_type
 # Simple type:
 A = [8,2,1;3,-1,4;7,6,-5] 
+size(A)
 # A =
 
 #    8   2   1
