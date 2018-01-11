@@ -23,3 +23,9 @@
 ### Week 6:
 1. - [ ] [Advice for applying ml]()
 2. - [ ] [ML s/m design]()
+
+### Week 7:
+
+1. - [ ] [Support Vector Machines[SVM]]()
+
+   ​
