@@ -197,4 +197,8 @@ Suppose that for some linear regression problem (say, predicting housing prices 
 
 
 
+------
 
+Blog Post on Introduction to Machine Learning : https://dineshsonachalamai.wordpress.com/2018/01/10/1-intro-to-ml/
+
+Blog Post on Linear Regression : https://dineshsonachalamai.wordpress.com/2018/01/11/2-linear-regression/ 
